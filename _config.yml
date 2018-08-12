@@ -16,7 +16,7 @@
 title: isought
 author: exfinium
 email: matt@exfinium.com
-description: a practical search for truth, investigating first principles, illuminating easy conclusions and interrogating false certainties
+description: a practical search for truth: investigating first principles, illuminating easy conclusions, and interrogating false certainties
 baseurl: "/isought" # the subpath of your site, e.g. /blog
 url: "http://exfinium.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: exfinium
