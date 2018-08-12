@@ -8,9 +8,9 @@ I have no plans to rush.  The basics are in place for now. I will post brain far
 
 I'm listening to [FRIENDED VS GARY EDWARDS ON "METAPHORICAL TRUTH"](https://youtu.be/SzMd1LAgBSk) and jotting thoughts.
 
-Truth is good - I think that's an unprovable truth.
+Truth is good :: I think that's an unprovable truth.
 
-Man is perfectable/eternaly flawed.  Maybe man is improvable?  Reminded of Firefly/Serenity cultural engineering.
+Man is perfectable/eternaly flawed. :: Maybe man is improvable?  Reminded of Firefly/Serenity cultural engineering.
 
-Protestant "anyone can function as their own priest" >> enlightenment >> gender fluid  ... maybe partially
+Protestant "anyone can function as their own priest" >> enlightenment >> gender fluid :: maybe partially
 
