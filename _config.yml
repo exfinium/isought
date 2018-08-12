@@ -16,7 +16,7 @@
 title: isought
 author: exfinium
 email: matt@exfinium.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: #>- # this means to ignore newlines until "baseurl:"
   a practical search for truth<br/>
   naming easy certainties<br/>
   shaming false certainties
