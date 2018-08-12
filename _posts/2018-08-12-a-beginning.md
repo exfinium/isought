@@ -24,3 +24,5 @@ Truth != value/axiom :: motivated reasoning makes the desirable seem true
 
 You respect truth, you don't appreciate truth, truth is sacred, fearsome :: truth as an immovable object / unstoppable force  <<<
 
+"I feel thirsty" is true if the person saying it is thirsty. :: unprovable, unfalsifyable - seems wrong that it's the same word that's used in the previos entry.
+
