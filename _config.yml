@@ -17,8 +17,8 @@ title: isought
 author: exfinium
 email: matt@exfinium.com
 description: >- # this means to ignore newlines until "baseurl:"
-  a practical search for truth\
-  naming easy certainties\
+  a practical search for truth<br/>
+  naming easy certainties<br/>
   shaming false certainties
 baseurl: "/isought" # the subpath of your site, e.g. /blog
 url: "http://exfinium.github.io" # the base hostname & protocol for your site, e.g. http://example.com
