@@ -6,7 +6,7 @@ permalink: /hookey/
 
 This is a test page in the root
 
-Have a look at [exfinium.com](https://exfinium.com/)
+Have a look at [exfinium.com](http://exfinium.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
