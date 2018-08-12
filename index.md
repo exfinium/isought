@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+view source and all changes at [github.com/exfinium/isought](https://github.com/exfinium/isought)
