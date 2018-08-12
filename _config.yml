@@ -16,9 +16,7 @@
 title: isought
 author: exfinium
 email: matt@exfinium.com
-description: "a practical search for truth  
-  naming easy certainties  
-  shaming false certainties"
+description: a practical search for truth, naming easy certainties and shaming false certainties
 baseurl: "/isought" # the subpath of your site, e.g. /blog
 url: "http://exfinium.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: exfinium
