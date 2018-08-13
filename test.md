@@ -11,8 +11,8 @@ test
 :  markdown fiddling and stuff
 
 * kram
-+ down
-- now
+  * down
+    * now
 
 1. kram
 2. down
