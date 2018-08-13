@@ -1,5 +1,6 @@
 ---
-random: nonsense
+layout: none
+permalink: /test/
 ---
 #test
 
