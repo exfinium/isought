@@ -10,5 +10,13 @@ test
 
 :  markdown fiddling and stuff
 
+* kram
++ down
+- now
+
+1. kram
+2. down
+3. now
+
 
 [edit](https://github.com/exfinium/isought/edit/master/test.md)
