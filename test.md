@@ -4,7 +4,7 @@ title: test
 permalink: /test/
 ---
 
-#test
+# test
 
 test
 : markdown fiddling and stuff
