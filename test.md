@@ -6,8 +6,7 @@ permalink: /test/
 
 # test
 
-test
-
+test dlist
 :  markdown fiddling and stuff
 
 * kram
@@ -19,6 +18,8 @@ test
 3. now
 
 also a `code span` for free
+
+some *light* and **strong** and ***both*** empasis and 
 
 
 [edit](https://github.com/exfinium/isought/edit/master/test.md)
