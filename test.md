@@ -17,7 +17,7 @@ this
 >blockquote yeah
 cool
 
-and an 'inline' quote
+...and an 'inline' quote
 
 •>> and an "inline" quote
 
