@@ -18,11 +18,7 @@ test
 2. down
 3. now
 
-  thing one
-
-
-thing in
- lovely
+also a `code span` for free
 
 
 [edit](https://github.com/exfinium/isought/edit/master/test.md)
