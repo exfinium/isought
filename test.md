@@ -17,6 +17,8 @@ this
 >blockquote yeah
 cool
 
+and an 'inline' quote
+
 * kram
   * down
     * now
