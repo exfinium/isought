@@ -32,8 +32,6 @@ categories: node
 ### selections
 The commandments:  
 
->Though shalt value no other ideas higher than reality itself.  
->Though shalt not make a map or image of any idea and surrender your faculties in service of it.  Reality is inescapable and will not be ignored.  
->Reality will bring suffering for several generations after them that hate reality.  
->Goodness for the great many will be found by those that love reality and heed its lessons.  
+>Though shalt value no other ideas above reality itself.  
+>Though shalt not make a model, map or image of any idea and surrender your faculties in service of it.  Reality is unrelenting and will not be ignored. It will bring suffering for several generations after them that detest reality.  Goodness for the great many will be found by those that love reality and heed its lessons.  
 >Though shalt carry the concept of actual reality with gravity.  Cursory consideration of reality will not save you from real consequences.  Reality rewards diligent attention and deliberate rational thoughtfulness. 
