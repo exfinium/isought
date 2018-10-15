@@ -36,6 +36,6 @@ Thou shalt not make unto thee any graven image, or any likeness of any thing tha
 
 >Though shalt value no other ideas higher than reality itself.  
 >Though shalt not make a map or image of any idea and surrender your faculties in service of it.  Because reality is inescapable and will not be ignored.  
->Ignorance of reality will bring suffering and even harm that lasts generations if reality is hatefully rejected.  
+>Reality will bring suffering for several generations after them that hate reality.  
 >Goodness for the great many will be found by those that love reality and heed its lessons.
 
