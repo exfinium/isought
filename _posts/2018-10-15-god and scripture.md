@@ -36,4 +36,4 @@ The commandments:
 >Though shalt not make a map or image of any idea and surrender your faculties in service of it.  Reality is inescapable and will not be ignored.  
 >Reality will bring suffering for several generations after them that hate reality.  
 >Goodness for the great many will be found by those that love reality and heed its lessons.  
->Though shalt carry the concept of actual reality with gravity.  Empty acknowledgement of reality will not save you from real consequences.  
+>Though shalt carry the concept of actual reality with gravity.  Cursory consideration of reality will not save you from real consequences.  Reality rewards diligent attention and deliberate rational thoughtfulness. 
