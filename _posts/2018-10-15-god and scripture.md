@@ -30,12 +30,10 @@ categories: node
   * apparent myth / parable  
 
 ### selections
-the first few commandments:  
-(KJV) Thou shalt have no other gods before me.  
-Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me and shewing mercy unto thousands of them that love me, and keep my commandments.  
+The commandments:  
 
 >Though shalt value no other ideas higher than reality itself.  
->Though shalt not make a map or image of any idea and surrender your faculties in service of it.  Because reality is inescapable and will not be ignored.  
+>Though shalt not make a map or image of any idea and surrender your faculties in service of it.  Reality is inescapable and will not be ignored.  
 >Reality will bring suffering for several generations after them that hate reality.  
->Goodness for the great many will be found by those that love reality and heed its lessons.
-
+>Goodness for the great many will be found by those that love reality and heed its lessons.  
+>Though shalt carry the concept of actual reality with gravity.  Empty acknowledgement of reality will not save you from real consequences.  
