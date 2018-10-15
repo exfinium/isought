@@ -16,8 +16,26 @@ categories: node
 
 ### premises
 * existence exists and is material reality
-* define God as the entirety of existence (I AM that I AM)
-* whether God exists as a conscious self can't be proved or disproved
-* make no claim about God except that which can be experienced in material reality
-* represent God as a person only to aid a thought experiment or heuristic
-* 
+* god is the identity of the entirety of existence ("I AM that I AM")
+* whether god exists as a conscious self can't be proved or disproved
+* the nature of god can only be known by experience of material reality
+
+### method
+* anthropomorphize god only to aid a thought experiment or heuristic
+* de-anthropomorphize god's behaviour to mere actualizations of reality
+* attempt to interpret bible passages literally and categorize 
+  * apparent statement of fact, consistent with reality
+  * apparent statement of fact, unprovable
+  * apparent statement of fact, inconsistent with reality
+  * apparent myth / parable  
+
+### selections
+the first few commandments:  
+(KJV) Thou shalt have no other gods before me.  
+Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me and shewing mercy unto thousands of them that love me, and keep my commandments.  
+
+Though shalt value no other ideas higher than reality itself.  
+Though shalt not make a map or image of any idea and surrender your faculties in service of it.  Because reality is inescapable and will not be ignored.  
+Ignorance of reality will bring suffering and even harm that lasts generations if reality is hatefully rejected.  
+Goodness for the great many will be found by those that love reality and heed its lessons.
+
