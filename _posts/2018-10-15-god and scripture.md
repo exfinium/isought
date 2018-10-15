@@ -11,14 +11,15 @@ categories: node
 * the bible is fallible and partially faulty, possibly greatly so
 * magical thinking is unproductive in the pursuit of wisdom
 * a rational, grounded, optimistic reading of the bible is warranted
-* altruism is a disfunctional moral foundation
-* obligation to be a good steward of one's self is a better primary moral
 
 ### premises
 * existence exists and is material reality
 * god is the identity of the entirety of existence ("I AM that I AM")
 * whether god exists as a conscious self can't be proved or disproved
-* the nature of god can only be known by experience of material reality
+* the nature of god can only be known by:
+  * experience of material reality
+  * rational evaluation of evidence
+  * truthful discussion of ideas
 
 ### the commandments
 * Though shalt value no other ideas above reality itself.  
