@@ -23,7 +23,7 @@ The implication is that the first and second biscuits are a harmless private ind
 In both cases the consequence is **failure to be one’s best self**.  How is this immoral?  
 
 ### social and individual
-Some argue that morality has no basis without a social context.  On these terms what is the social harm of failure to be one’s best self?  It can only be that **society has a moral claim on the individual** and by failing to achieve their potential the individual is withholding from society its rightful share of the individual’s production. Conversely, a needlessly unhealthy person might make an unfair claim on society in the form of increased demand for public health care and accommodations for obesity as a disability.    
+Some argue that morality has no basis without a social context.  On these terms what is the social harm of failure to be one’s best self?  It can only be that **society has a moral claim on the individual** and by failing to achieve their potential the individual is withholding from society its rightful share of the individual’s production. Further, a needlessly unhealthy person might make an unfair claim on society in the form of increased demand for public health care and accommodations for obesity as a disability.    
 
 The individual morality claim would be that **the individual has a moral obligation to themselves** to be their best self, to live the most lively and meaningful life they can achieve.  Though lacking a social founding, this idea is not anti-social, rather in practice it is inevitably pro-social.
 
