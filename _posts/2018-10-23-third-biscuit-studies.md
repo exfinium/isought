@@ -2,7 +2,7 @@
 layout: post
 title:  "third biscuit studies"
 date:   2018-10-23 18:44:01 +1000
-categories: case-study
+categories: case study
 ---
 #### a case study of individual liberty as a pro-social ideal
 ### the third biscuit is immoral
