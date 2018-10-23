@@ -31,4 +31,5 @@ Whether the sin is social or individual in nature then an occasional mild scoldi
 
 Put down that third biscuit because by doing so:  
 >	the world will be a better place and you owe that.  
+or  
 >	you will have a better life which you will deserve.  
