@@ -29,7 +29,7 @@ The individual morality claim would be that **the individual has a moral obligat
 
 ### appropriate punishment
 
-Whether the sin is social or individual in nature then an occasional mild scolding is warranted with only variation in the intent.  The social scold implies a demand for the scoldee to give society more.  The individual scold implies a wish for the scoldee to have a better life.  The implication perceived by the scoldee is likely to be derived from their own understanding of morality.
+Whether the sin is social or individual in nature an occasional mild scolding is warranted, varying only in the intent.  The social scold implies a demand for the scoldee to give society more.  The individual scold implies a wish for the scoldee to have a better life.  The implication perceived by the scoldee is likely to be derived from their own understanding of morality.
 
 Put down that third biscuit because by doing so:  
 
