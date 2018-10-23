@@ -6,12 +6,12 @@ categories: case study
 ---
 #### a case study of individual liberty as a pro-social ideal
 ### the third biscuit is immoral
-credit to [Academic Agent](https://www.youtube.com/channel/UCyawG3aTE7RmNQcFQskDWcw).  I'm not sure if he coined the phrase but it's where I first heard it.  
-Though sometimes used in jest and almost always without any prescription of consequence this formulation is a reasonable starting point for thinking about morality.  
+Credit to [Academic Agent](https://www.youtube.com/channel/UCyawG3aTE7RmNQcFQskDWcw).  I'm not sure if he coined the phrase but he's where I first heard it.  
+Though sometimes used in jest and almost always without any prescription of consequence this formulation is a nice starting point for thinking about morality.  
 
 ### setting
-For this study I will specify some preconditions to narrow the topic.  This setting is not canonical and serves only to constrain this document.  
-* The biscuit eater is alone, and sharing is not a relevant concern.  
+Some preconditions to narrow the topic.  The setting is not canonical and serves only to constrain this document.  
+* The biscuit eater is alone. Sharing is not a relevant concern.  
 * The biscuit is the sole property of the eater.  
 * The eater is at home and can prepare a healthy meal.  
 
