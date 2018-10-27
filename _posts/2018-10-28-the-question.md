@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "the question"
-date:   2018-08-12 18:44:01 +1000
+date:   2018-10-20 00:28:01 +1000
 ---
 
-### what ought I do
+### what should I do
