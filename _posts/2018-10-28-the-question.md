@@ -9,7 +9,7 @@ Why is this *the* question? What are the presumptions of the question? How can t
 
 ### what
 **choice >> options >> knowledge**  
-The foundation of this question is *choice*.  We choose from rank orderable *options* in lists drawn from our own *knowledge*.
+The foundation of this question is *choice*.  We choose from rank orderable *options* drawn from our own *knowledge*.
 
 ### should
 **ought >> good >> truth >> wisdom**  
