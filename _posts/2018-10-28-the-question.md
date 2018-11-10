@@ -17,13 +17,13 @@ The concept of ought assumes a hierarchy of *what is good* and an ability to mov
 
 ### I
 #### self >> other >> group
-In the space of knowledge, choice and action, the conscious individual is irrevocably the exclusive final arbiter of voluntary action and is the only one in possession of all the information and circumstance that precedes choice and action.  
-'What should *you* do?' is a question that allows only a fraction of the information available to the *I* and can be expected to deliver statistically inferior answers.  
-'What should *we* do?' is really just an aggregate of the *I* question, albeit with complex feedback into individual volition.
+In the space of knowledge, choice and action, the conscious individual *self* is irrevocably the exclusive final arbiter of voluntary action and is the only one in possession of all the information and circumstance that precedes choice and action.  
+'What should *you* do?' is a question that only allows consideration of information available to the *other* and can be expected to deliver statistically inferior answers.  
+'What should *we* do?' is really just the *self* question aggregated across the *group*, albeit with complex feedback into individual volition.
 
 ### do
 #### action >> care >> expectation >> consequence >> integration
-Voluntary action is a normal continual state of every conscious person. A flowing web of experience and intent is constantly being actualized with varying degrees of care. Careful action warrants mindful expectation and careful observation of consequence. Comparing expectation to consequence brings integration of reality into one's network of knowledge and truth.  
+Voluntary *action* is a normal continual state of every conscious person. A flowing web of experience and intent is constantly being actualized with varying degrees of *care*. Careful action warrants mindful *expectation* and careful observation of *consequence*. Comparing expectation to consequence brings *integration* of reality into one's network of knowledge and truth.  
 
 ---
 ### Why this question?
