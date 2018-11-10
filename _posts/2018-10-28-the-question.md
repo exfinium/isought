@@ -26,6 +26,5 @@ In the space of knowledge, choice and action, the conscious individual is irrevo
 Voluntary action is a normal continual state of every conscious person. A flowing web of experience and intent is constantly being actualized with varying degrees of care. Careful action warrants mindful expectation and careful observation of consequence. Comparing expectation to consequence brings integration of reality into one's network of knowledge and truth.  
 
 ---
-
-## Why this question?
+### Why this question?
 Of all the questions that could be asked, this question is implicitly being asked and answered every waking moment by all of us.  Every other question only exists in the constant presence of this question, and the way this question is asked and answered influences our treatment of every other question.
