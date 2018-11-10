@@ -16,13 +16,13 @@ The question is faulty if *choice* is an illusion.  Every other word in the ques
 The concept of ought assumes a hierarchy of *what is good* and an ability to move towards it.  An ought asserts a true path towards the good.  Accumulation of the truest oughts is the nature of wisdom.
 
 ### I
-#### self >> other >> group
+**self >> other >> group**  
 In the space of knowledge, choice and action, the conscious individual *self* is irrevocably the exclusive final arbiter of voluntary action and is the only one in possession of all the information and circumstance that precedes choice and action.  
 'What should *you* do?' is a question that only allows consideration of information available to the *other* and can be expected to deliver statistically inferior answers.  
 'What should *we* do?' is really just the *self* question aggregated across the *group*, albeit with complex feedback into individual volition.
 
 ### do
-#### action >> care >> expectation >> consequence >> integration
+**action >> care >> expectation >> consequence >> integration**  
 Voluntary *action* is a normal continual state of every conscious person. A flowing web of experience and intent is constantly being actualized with varying degrees of *care*. Careful action warrants mindful *expectation* and careful observation of *consequence*. Comparing expectation to consequence brings *integration* of reality into one's network of knowledge and truth.  
 
 ---
