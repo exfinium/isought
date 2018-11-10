@@ -19,7 +19,7 @@ The concept of ought assumes a hierarchy of *what is good* and an ability to mov
 **self >> other >> group**  
 In the space of knowledge, choice and action, the conscious individual *self* is irrevocably the exclusive final arbiter of voluntary action and is the only one in possession of all the information and circumstance that precedes choice and action.  
 'What should *you* do?' is a question that only allows consideration of information available to the *other* and can be expected to deliver statistically inferior answers.  
-'What should *we* do?' is really just the *self* question aggregated across the *group*, albeit with complex feedback into individual volition.
+'What should *we* do?' is really just the *self* and *other* questions aggregated across the *group*, albeit with complex feedback into individual volition.
 
 ### do
 **action >> care >> expectation >> consequence >> integration**  
